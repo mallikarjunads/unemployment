@@ -1,2 +1,1 @@
-# unemployment
-analysize unemployment
+The Unemployment dataset tracks labor market trends, including unemployment rates, labor force participation, and demographic characteristics, to understand employment patterns and economic changes over time.
